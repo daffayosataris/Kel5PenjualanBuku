@@ -3,8 +3,8 @@
 
 ## featur
 Sprint 1
+* Home
 * Katalog Buku
-* Manajemen Akun Pengguna
 * Review
 
 ## Keterangan Folder
